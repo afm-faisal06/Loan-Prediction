@@ -1,1 +1,2 @@
 # Loan-Prediction
+There are many people applying for the loans which has increased for various reasons in recent years. The bank employees are not able to analyze or predict whether the customer can pay back the amount or not (good customer or bad customer) for the given interest rate. Therefore, an AI model is required to predict whether a customer should be provided a loan or not. Our goal is to predict who possible Defaulters are for the Consumer Loans Product.  
